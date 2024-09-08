@@ -1,0 +1,33 @@
+.caption{
+    border-radius: 16px;
+    width:100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0,15,152,0.3);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    opacity: 0;
+    padding-top: 70%;
+    transition: 0.4s;
+    
+}
+.caption:hover {
+    opacity: 1;
+    padding-top: 0;
+}
+
+@media (max-width:650px){
+
+.caption{
+    width:100%;
+
+
+}
+}

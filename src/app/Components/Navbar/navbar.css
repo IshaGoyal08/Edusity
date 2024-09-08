@@ -1,0 +1,28 @@
+
+@media (max-width:950px){
+    
+nav ul {
+    position: fixed ;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 200px;
+    background:#0c0647fa;
+    z-index: -1;
+    transition: 0.5s;
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 90px;
+
+    
+    
+    }
+    nav ul li{
+        margin: 4px 3px;
+      
+   
+    }
+
+}
+
