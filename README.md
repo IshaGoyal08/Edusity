@@ -1,3 +1,7 @@
+<b> Edusity- UI/UX of Landing page of University website </b>
+<br>
+Developed a landing page using Next.js and Tailwind CSS focusing on a clean and responsive UI/UX design. Also add a working contact form.The project emphasizes SEO best practices and effecient use of react components.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
