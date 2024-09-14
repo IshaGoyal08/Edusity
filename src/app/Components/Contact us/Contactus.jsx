@@ -1,3 +1,4 @@
+import Image from "next/image";
 import React, { useState } from "react";
 
 const Contactus = () => {
@@ -37,7 +38,7 @@ const Contactus = () => {
         <div className="w-[48%] max-[700px]:w-[100%] max-[700px]:p-[20px]">
           <h3 className="flex mb-[20px] items-center gap-2 text-2xl max-[500px]:text-xl font-semibold text-[#0c0647fa]">
             Send us a message{" "}
-            <img src="/images/msg-icon.png" alt="" className="w-[35px] max-[500px]:w-[30px] " />
+            <Image width={35} height={35} src="/images/msg-icon.png" alt="" className="max-[500px]:w-[30px] " />
           </h3>
           <p className="max-w-[450px] max-[450px]:text-[15px]">
             Feel free to reach out through contact form or find our contact
@@ -47,18 +48,17 @@ const Contactus = () => {
           </p>
           <ul className="">
             <li className="mt-[15px] flex gap-2 items-center">
-              <img src="/images/mail-icon.png" alt="" className="w-[22px]" />{" "}
+              <Image width={22} height={22} src="/images/mail-icon.png" alt=""  />{" "}
               Goyalisha807@gmail.com
             </li>
             <li className="mt-[13px] flex gap-2 items-center">
-              <img src="/images/phone-icon.png" alt="" className="w-[22px]" />{" "}
+              <Image width={22} height={22} src="/images/phone-icon.png" alt=""  />{" "}
               +11 123-456-7890
             </li>
             <li className="mt-[13px] flex gap-2 items-center">
-              <img
+              <Image width={22} height={22}
                 src="/images/location-icon.png"
                 alt=""
-                className="w-[22px]"
               />{" "}
               77 Massachute Ave,cambridge <br />
               MA 02139, united states
@@ -96,7 +96,7 @@ const Contactus = () => {
               className="bg-[#1d1da6fa] inline-flex items-center gap-1 justify-center text-white px-4 py-3 text-md outline-none border-none rounded-3xl"
             >
               Submit Now{" "}
-              <img src="/images/white-arrow.png" alt="" className="w-4 h-3 " />
+              <Image width={16}  height={12} src="/images/white-arrow.png" alt=""  />
             </button>
           </form>
           <span className="block my-[20px] text-gray-700">{result}</span>
