@@ -7,7 +7,7 @@ import Image from "next/image";
 
 const Testimonials = () => {
   return (
-    <div id='testimonials' className="max-[800px]:px-[5%] px-[7%]">
+    <div id="testimonials" className="max-[800px]:px-[5%] px-[7%]">
       <div className="text-center pt-16">
         <p className="uppercase font-semibold text-[#1c0f97fa] ">
           Testimonials{" "}

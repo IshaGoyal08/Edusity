@@ -12,7 +12,7 @@ import Footer from './Components/Footer/Footer'
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer'
 
 const page = () => {
-  const [playVideo,setplayVideo] = useState(false)
+  const [playVideo,setPlayVideo] = useState(false)
   
   return (
     <div>
@@ -20,12 +20,12 @@ const page = () => {
       <Hero/>
      
       <Programs/>
-      <About setplayVideo={setplayVideo}/>
+      <About setplayVideo={setPlayVideo}/>
       <Campus/>
       <Testimonials/>
       <Contactus/>
       <Footer/>
-      <VideoPlayer playVideo={playVideo} setplayVideo={setplayVideo}/>
+      <VideoPlayer playVideo={playVideo} setplayVideo={setPlayVideo}/>
 
     </div>
   )
