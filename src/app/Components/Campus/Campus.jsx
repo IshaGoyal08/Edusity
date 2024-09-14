@@ -17,7 +17,7 @@ const Campus = () => {
           <Image width={100} height={100} src="/images/gallery-3.png" alt="" className="w-[23%] rounded-lg max-[800px]:w-[48%] max-[800px]:mb-[20px]"/>
           <Image width={100} height={100} src="/images/gallery-4.png" alt="" className="w-[23%] rounded-lg max-[800px]:w-[48%] max-[800px]:mb-[20px]"/>
         </div>
-        <button className='bg-[#1d1da6fa] inline-flex items-center gap-1 justify-center text-white px-4 py-3 text-md outline-none border-none rounded-3xl'>See more here    <img src="/images/white-arrow.png" alt=""  className='w-4 h-3 ' /></button>
+        <button className='bg-[#1d1da6fa] inline-flex items-center gap-1 justify-center text-white px-4 py-3 text-md outline-none border-none rounded-3xl'>See more here    <Image width={16} height={12} src="/images/white-arrow.png" alt=""  /></button>
       </div>
     </div>
   );
