@@ -34,11 +34,11 @@ const About = ({ setplayVideo }) => {
             ABOUT UNIVERSITY
           </h2>
           <h3 className="text-4xl max-[1075px]:text-2xl  max-[1075px]:mb-[7px] font-bold max-w-[400px] text-[#0c0647fa] my-[10px]">
-            Nurturing Tommorow's Leaders Today
+            Nurturing Tommorow&apos;s Leaders Today
           </h3>
           <p className="text-[15px] text-[#0c0647fa] mb-[15px]  max-[1075px]:text-[14.5px]  max-[1075px]:mb-[10px]">
             Embark on a transformational educational journey with our
-            university's comprehensive educational program. Our cutting-edge
+            university&apos;s comprehensive educational program. Our cutting-edge
             curriculum is designed to empower students with the knowledge,
             skills, and experiences needed to excel in the dynamic field of
             education.
@@ -49,7 +49,7 @@ const About = ({ setplayVideo }) => {
             meaningful impact in classrooms, schools and communities
           </p>
           <p className="text-[15px] text-[#0d083afa] mb-[15px]  max-[1075px]:text-[13px]  max-[1075px]:mb-[10px]">
-            Whether you aspire to ecome a teacher, administrator, counseller or
+            Whether you aspire to become a teacher, administrator, counseller or
             educational leader, our diverse range of programs offers the perfect
             pathway to achieve your goals and unlock your full potential in
             shaping the future of education.{" "}

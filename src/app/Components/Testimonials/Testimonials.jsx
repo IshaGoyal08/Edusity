@@ -42,28 +42,28 @@ const Testimonials = () => {
               <Image width={65} height={65} src="/images/user-1.png" alt="" className="  rounded-full border-2 border-[#1d1da6fa]" />
               <div><h3 className="max-[500px]:text-[16px] text-lg text-[#1d1da6fa] font-semibold">William Jackson</h3><span className="max-[500px]:text-[15px]">Edusity,USA</span></div>
             </div>
-            <p className="text-left text-[15px] max-w-[90%] text-[#15156cfa] my-3 mx-2">Choosing to pursue my degree at Edusity was one of the best decisions I've ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
+            <p className="text-left text-[15px] max-w-[90%] text-[#15156cfa] my-3 mx-2">Choosing to pursue my degree at Edusity was one of the best decisions I&apos;ve ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
           </SwiperSlide>
           <SwiperSlide className="max-w-[200%] shadow-lg bg-blue-50 rounded-lg  px-5 py-6">
             <div className="flex gap-3 items-center max-[685px]:block max-[685px]:ml-3  ">
               <Image width={65} height={65} src="/images/user-2.png" alt="" className=" rounded-full border-2 border-[#1d1da6fa]" />
               <div><h3 className="max-[500px]:text-[16px]  text-lg text-[#1d1da6fa] font-semibold">William Jackson</h3><span className="max-[500px]:text-[15px]">Edusity,USA</span></div>
             </div>
-            <p className="text-left max-w-[90%] text-[15px] text-[#15156cfa] mx-2 my-3 ">Choosing to pursue my degree at Edusity was one of the best decisions I've ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
+            <p className="text-left max-w-[90%] text-[15px] text-[#15156cfa] mx-2 my-3 ">Choosing to pursue my degree at Edusity was one of the best decisions I&apos;ve ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
           </SwiperSlide>
           <SwiperSlide className="max-w-[200%] shadow-lg bg-blue-50 rounded-lg  px-5 py-6">
             <div className="flex gap-3 items-center max-[685px]:block max-[685px]:ml-3  ">
               <Image width={65} height={65} src="/images/user-3.png" alt="" className="rounded-full border-2 border-[#1d1da6fa]" />
               <div><h3 className="max-[500px]:text-[16px] text-lg text-[#1d1da6fa] font-semibold">William Jackson</h3><span className="max-[500px]:text-[15px]">Edusity,USA</span></div>
             </div>
-            <p className="text-left text-[15px] text-[#15156cfa] max-w-[90%] mx-2 my-3">Choosing to pursue my degree at Edusity was one of the best decisions I've ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
+            <p className="text-left text-[15px] text-[#15156cfa] max-w-[90%] mx-2 my-3">Choosing to pursue my degree at Edusity was one of the best decisions I&apos;ve ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
           </SwiperSlide>
           <SwiperSlide className="max-w-[200%] shadow-lg bg-blue-50 rounded-lg  px-5 py-6">
             <div className="flex gap-3 items-center max-[685px]:block max-[685px]:ml-3  ">
               <Image width={65} height={65} src="/images/user-4.png" alt="" className=" rounded-full border-2 border-[#1d1da6fa]" />
               <div><h3 className="max-[500px]:text-[16px] text-lg text-[#1d1da6fa] font-semibold">William Jackson</h3><span className="max-[500px]:text-[15px]">Edusity,USA</span></div>
             </div>
-            <p className="text-left text-[15px] max-w-[90%] mx-2 text-[#15156cfa] my-3">Choosing to pursue my degree at Edusity was one of the best decisions I've ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
+            <p className="text-left text-[15px] max-w-[90%] mx-2 text-[#15156cfa] my-3">Choosing to pursue my degree at Edusity was one of the best decisions I&apos;ve ever made.The Supportive community, state-of-the-art facilities, and commitment to academic excellence have truly exceeded my expectations.  </p>
           </SwiperSlide>
           
         </Swiper>

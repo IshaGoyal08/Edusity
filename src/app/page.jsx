@@ -11,7 +11,7 @@ import Contactus from './Components/Contact us/Contactus'
 import Footer from './Components/Footer/Footer'
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer'
 
-const page = () => {
+const Page = () => {
   const [playVideo,setPlayVideo] = useState(false)
   
   return (
@@ -31,4 +31,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
